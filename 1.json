@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Buttons",
+        "value": "three"
+      },
+      {
+        "trait_type": "Background",
+        "value": "blue"
+      }
+    ],
+    "description": "Tv collection",
+    "image": "ipfs://QmRvJxb9s6rpcQaQp3jbDmmx5acEuEjZJ88qZ2cEUEJWV4/3.png",
+    "name": "Tipes"
+  }
+  
